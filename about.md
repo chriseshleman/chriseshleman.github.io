@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I dove into quantitative analysis and economics five years ago following a decade as a political (municipal and state-level) print journalist. I gravitate toward projects at the intersection of data and urban public policy. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+In progress. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[eshlemanchris@gmail.com](mailto:email@domain.com)
