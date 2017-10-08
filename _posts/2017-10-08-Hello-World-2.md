@@ -1,14 +1,18 @@
 ---
-title: "DRAFT: Who uses 311? (Part 1)"
-author: "Jonathan Auerbach and Christopher Eshleman"
-date: "June 1, 2016"
+title: "Crime and elevated trains"
+author: "Christopher Eshleman"
+date: "Oct 8, 2017"
 output: html_document
-subtitle: A dive into New York City's service requests
+subtitle: First steps - snagging some data
 ---
 
-##New York's nonemergency hotline: a data goldmine.
+##Taking advantage of New York City's commitment to public accessibility re: data
 
-Everyday, residents call New York City's [311](http://www1.nyc.gov/311/) hotline (a 911 equivalent for nonemergencies) to request government services. These services range from simple requests for basic government services to responding to storm damage to filling potholes to confronting noisy neighbors. 311 allows New Yorkers to voice their needs and influence how the City allocates its resources. Unfortunately, New York City does not collect or report information on the callers themselves, making it difficult to evaluate the equity or efficacy of that allocation. This project attempts to address that gap, and ultimately, to help develop a better understanding of which New Yorkers use 311. 
+Is crime beneath/immediately surrounding elevated trains different from (worse than) crime elsewhere? I had a tour guide (Robert Brenner, fantastic guy) yesterday tell us it was so. He was talking about the old Allen Street elevated train and the fact that the street beneath the track was a hotbed for Jewish prostitution. Apparently this was an issue in New York City at one point. So I’ll do this full analysis later and, for now, I’ll just focus on getting one of the datasets I need. 
+
+
+--- 
+
 
 We dive into a slice of 311 data specific to street tree damage reported immediately following major storms. The City of New York makes 311 data available on its [Open Data Portal](https://nycopendata.socrata.com/), and we will investigate it using the software $R$. We will wrangle the data with spatial packages like $sp$, $rgdal$ and $maptools$. Then, we will plot the data using shapefiles from the City's planning department and $R$’s famous $ggplot2$ package. Finally, we will combine 311 with data from the US Census Bureau and the City's tree census to construct a statistical model using the package $RStan$.
 
