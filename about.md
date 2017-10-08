@@ -8,7 +8,7 @@ I dove into quantitative analysis and economics five years ago following a decad
 
 ### More Information
 
-In progress. 
+Button to my resume (OK, my Linkedin profile) is below. 
 
 ### Contact me
 
