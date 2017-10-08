@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: I'm posting again. 
