@@ -21,3 +21,9 @@ And, well, maybe there was a dip last year in relevant employment. Ohio on the l
 If you squint (I'm not using ggplot or anything fancy right now) it looks like last year's primary metal manufacturing employment is lower in 2016 ... see? (*Squints*). 
 
 I'll take a closer look later.
+
+
+-----------------------------
+Later ... 
+
+![Primary metal manufacturing.]({{site.baseurl}}/images/Primary metal PA OH.png)
