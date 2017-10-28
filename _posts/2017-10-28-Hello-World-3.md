@@ -26,4 +26,4 @@ I'll take a closer look later.
 -----------------------------
 Later ... 
 
-![Primary metal manufacturing.]({{site.baseurl}}/images/Primary metal PA OH.png)
+![Primary metal manufacturing.]({{site.baseurl}}/images/Primary metal OH PA.png)
