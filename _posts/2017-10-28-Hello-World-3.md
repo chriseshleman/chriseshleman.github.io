@@ -13,11 +13,11 @@ So a few weeks ago I talked to a local scrap metal recycler and he told me to ta
 
 Much of the the steel, copper and aluminum the greater New York area exports heads to Pennsylvania and Ohio. I pulled Quarterly Census of Employment and Wages data for those states over the past few years (April data only). I stuck to NAICS code 331: primary metal manufacturing. 
 
-And, well, maybe there was a dip last year (looking at April 2016 versus 2013-2015) in relevant employment. Ohio on the left, then Pennsylvania on the right: 
+And, well, maybe there was a dip last year in relevant employment. Ohio on the left, then Pennsylvania on the right (each shows metal manufacturing employment for April 2013-2016): 
 
 ![Primary metal manufacturing, Ohio.]({{site.baseurl}}/images/Ohio.png)
 ![Primary metal manufacturing, Pennsylvania.]({{site.baseurl}}/images/Penn.png)
 
-If you squint (sorry, I'm not using ggplot or anything fancy) it looks like last year's primary metal manufacturing employment is lower in 2016 ... see? (*Squints*). 
+If you squint (I'm not using ggplot or anything fancy right now) it looks like last year's primary metal manufacturing employment is lower in 2016 ... see? (*Squints*). 
 
 I'll take a closer look later.
