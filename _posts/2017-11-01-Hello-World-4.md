@@ -5,7 +5,7 @@ date: "Nov 1, 2017"
 output: html_document
 subtitle: More scrap metal
 ---
-I don't see a clear, strong indicator from Ohio and Pennsylvania data that metal reprocessing took a huge dive there over the past four years. 
+I don't see clear, strong indicators from Ohio and Pennsylvania data that metal reprocessing took a huge dive there over the past four years. 
 
 But that's only using second-quarter (April-June) data, and it only looks at two states. 
 
