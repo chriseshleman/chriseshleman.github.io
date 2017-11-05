@@ -8,6 +8,7 @@ subtitle: Metals from 30,000 feet
 Yes, it looks like metal production in the US took a hit last year. 
 
 I backed up after the last post and tried to get a broader view of things. 
+
 First, take a second look at metals, this time at the broader industry — primary and fabricated metal products, collectively. The US lost around 180 firms in 2016, a drop of around one-third of 1 percent. But the concomitant drop in relevant employment was larger, a fall of 58,000 workers, down 3 percent. 
 
 ![Primary and secondary metal manufacturing, US, firms and employees.]({{site.baseurl}}/images/Aggregate metals.png)
