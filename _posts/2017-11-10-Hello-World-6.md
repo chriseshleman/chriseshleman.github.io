@@ -1,5 +1,5 @@
 ---
-title: "2017-11-10-Hello-World-6"
+title: "R Studio to markdown"
 author: "Christopher Eshleman"
 date: "11/10/2017"
 output: html_document
