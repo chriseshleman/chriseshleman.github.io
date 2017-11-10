@@ -5,14 +5,7 @@ date: "11/10/2017"
 output: html_document
 ---
 
-
-
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
+It's tough enough learning to post straight from R Studio via R Markdown so instead of a substantive post I'm just going to post a placeholder. This is a markdown file built in R Markdown and converted through R's knitr package. Thanks to a gazillion people for drafting tutorials to help me figure this out. 
 
 ```r
 summary(cars)
@@ -27,11 +20,3 @@ summary(cars)
 ##  3rd Qu.:19.0   3rd Qu.: 56.00  
 ##  Max.   :25.0   Max.   :120.00
 ```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-![plot of chunk pressure](figure/pressure-1.png)
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
