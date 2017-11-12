@@ -40,4 +40,4 @@ summary(mtcars)
 
 Trying a plot here. 
 
-![plot of chunk plot-this-banana-breath](/Users/chriseshleman/Dropbox/pages/chriseshleman.github.io/images/post-6-says-plot-this-banana-breath-1.png)
+![plot of chunk post-6-says-plot-this-banana-breath-1](/Users/chriseshleman/Dropbox/pages/chriseshleman.github.io/images/post-6-says-plot-this-banana-breath-1.png)
