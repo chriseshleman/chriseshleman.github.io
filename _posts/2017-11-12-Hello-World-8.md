@@ -46,6 +46,8 @@ ggplot(data=cars, aes(x=dist, y=speed, group=1)) +
   geom_point() 
 ```
 
+![Things. N stuff.]({{site.baseurl}}/images/samplepic.png)
+
 ```
 ## geom_point: na.rm = FALSE
 ## stat_identity: na.rm = FALSE
