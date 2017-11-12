@@ -4,11 +4,7 @@ author: "Christopher Eshleman"
 date: "11/13/2017"
 output: html_document
 ---
-
-
-
-
-
+Cribbity crazy R script. 
 ```r
 summary(mtcars)
 ```
