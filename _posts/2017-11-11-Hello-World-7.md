@@ -30,7 +30,7 @@ summary(cars)
 
 You can also embed plots, for example:
 
-![plot of chunk my-first-plot]({{ site.url }}/images/exploring-the-cars-dataset-my-first-plot-1.png)![plot of chunk my-first-plot]({{ site.url }}/images/exploring-the-cars-dataset-my-first-plot-2.png)
+![Primary and secondary metal manufacturing, US, value.]({{site.baseurl}}/images/Aggregate output.png)
 
 ```
 ## geom_point: na.rm = FALSE
