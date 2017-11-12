@@ -12,4 +12,4 @@ Button to my resume (OK, my Linkedin profile) is below.
 
 ### Contact me
 
-[eshlemanchris@gmail.com](mailto:email@domain.com)
+[eshlemanchris@gmail.com](mailto:eshlemanchris@gmail.com)
