@@ -44,10 +44,7 @@ ggplot(mtcars, aes(x=wt, y=mpg)) +
     geom_point(shape=1) +   
     geom_smooth(method=lm)  
 ```
-
-![plot of chunk plot-this-post-6](/Users/chriseshleman/Dropbox/pages/chriseshleman.github.io/images/post-6-says-plot-this-post-6-1.png)
-
-![posting]({{site.baseurl}}/images/post-6-says-plot-this-banana-breath-1.png)
+![Blam]({{site.baseurl}}/images/post-6-says-plot-this-post-6-1.png)
 
 There are plenty of problems with this posting process. For example, the last step (embedding script to host the image) means rendering the original R Markdown file useless in R Studio itself — it trips up the knitting process. But leaving it out means going into the post once its in GitHub and manually inserting the line. 
 
