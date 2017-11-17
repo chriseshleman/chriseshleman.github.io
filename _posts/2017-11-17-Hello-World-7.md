@@ -1,11 +1,9 @@
 ---
 title: "Green Jobs"
 author: "Christopher Eshleman"
-date: "11/17/2017"
+date: "Nov 17, 2017"
 output: html_document
 ---
-
-
 
 ## Alaska & Green Jobs 
 
