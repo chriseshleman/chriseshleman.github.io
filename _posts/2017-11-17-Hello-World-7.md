@@ -183,7 +183,7 @@ head(bb,8)
 ## stat_identity: na.rm = FALSE
 ## position_identity
 ```
-
+![Pic.]({{site.baseurl}}/images/pic.png)
 ```
 ## quartz_off_screen 
 ##                 2
