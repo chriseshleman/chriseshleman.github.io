@@ -185,6 +185,6 @@ head(bb,8)
 ```
 ![Pic.]({{site.baseurl}}/images/pic.png)
 ```
-## quartz_off_screen 
+## quartz_off_screen
 ##                 2
 ```
