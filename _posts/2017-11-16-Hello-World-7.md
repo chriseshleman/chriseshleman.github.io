@@ -184,6 +184,8 @@ head(bb,8)
 ## position_identity
 ```
 
+![Things.]({{site.baseurl}}/images/pic.png)
+
 ```
 ## quartz_off_screen 
 ##                 2
