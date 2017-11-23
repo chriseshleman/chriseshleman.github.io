@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ## Alaska and Green Jobs (Establishments)
-I was talking to someone last week about the green economy. Or whatever the actual term is for the economic activity — the investments, and the companies doing the work — that help the economy, at least compared to traditional counterparts. I remembered seeing a flood of work there 10 years ago in things like home weatherization and alternative energy, such as geothermal. I hypothesized the slice of the state economy, however slim, representing green investment may have grown enough recently to partly or fully offset any concomitant loss in traditional investment (setting oil and gas aside), such as in mining. 
+I was talking to someone last week about the green economy. Or whatever the actual term is for the economic activity — the investments, the companies doing the work, et cetera — that protect the environment or conserve resources, at least compared to their traditional counterpart activities. I remembered seeing a flood of work there 10 years ago in things like home weatherization and alternative energy, such as geothermal. I hypothesized the slice of the state economy, however slim, representing green investment may have grown enough recently to partly or fully offset any concomitant loss in traditional investment (setting oil and gas aside), such as in mining. 
 
 It turns out that federal statisticians have already defined green jobs, which makes it easier to track the data. The Bureau of Labor Statistics states that green jobs are either:
 
