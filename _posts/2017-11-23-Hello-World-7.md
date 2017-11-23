@@ -29,7 +29,6 @@ pp2 = ggplot(a, aes(year, (est_us))) + geom_line(colour = "#68382C", size = 1.5)
 grid.arrange(pp1, pp2, ncol=2) 
 ```
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2-1.png)
+![Green establishments.]({{site.baseurl}}/images/Green establishments.png)
 
 What are these firms doing? That's for a separate post — the BLS data lets us dig into changes by category (construction, for example, and professional services). For now, it's worth taking a moment just to soak up the change from a 30,000 foot level. 
-
