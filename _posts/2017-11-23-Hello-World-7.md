@@ -1,18 +1,20 @@
 ---
-title: "Green Jobs"
+title: "The Green Economy"
 author: "Christopher Eshleman"
 date: "Nov. 22, 2017"
 output: html_document
 ---
 
-## The US, Alaska and Green Jobs
+## Alaska and Green Jobs (Establishments)
 I was talking to someone last week about the green economy. Or whatever the actual term is for the economic activity — the investments, and the companies doing the work — that help the economy, at least compared to traditional counterparts. I remembered seeing a flood of work there 10 years ago in things like home weatherization and alternative energy, such as geothermal. I hypothesized the slice of the state economy, however slim, representing green investment may have grown enough recently to partly or fully offset any concomitant loss in traditional investment (setting oil and gas aside), such as in mining. 
 
 It turns out that federal statisticians have already defined green jobs, which makes it easier to track the data. The Bureau of Labor Statistics states that green jobs are either:
 
 "Jobs in businesses that produce goods or provide services that benefit the environment or conserve natural resources," or "[j]obs in which workers' duties involve making their establishment's production processes more environmentally friendly or use fewer natural resources." 
 
-So looked at the data. I imported and merged every annual data set from the BLS' employment census. Then I filtered it to include only national (aggregated) and Alaska data. That work was done elsewhere; here, I'm importing the data from my local drive. 
+It looks like BLS may still be in the process of measuring the labor side of the green economy. They've posted more information, referencing the survey, but I don't see reference to a conclusion: https://www.bls.gov/green/#contact. 
+
+So for now looked at the data, leaning on the definition's list of relevant industry codes without distinguishing further. I imported and merged every annual data set from the BLS' employment census. Then I filtered it to include only national (aggregated) and Alaska data. That work was done elsewhere; here, I'm importing the data from my local drive. 
 
 Once I've got it, I want to look at green jobs. So I knocked that big data set down to include only the labor subsectors identified in the BLS' definition. Then I built a trendline tracking the number of firms represented in the definition. And I compared it to the national trend. 
 
@@ -20,7 +22,7 @@ Once I've got it, I want to look at green jobs. So I knocked that big data set d
 # Firms in the BLS' "green jobs" designation.
 Very interesting. I scaled the two plots' respective y-axes so they're relative and comparable. Along the way I picked up a few tips for using ggplot2 from Le Hoang Van's excellent blog. 
 
-What I see is an equal rate of increase in the number of green firms. Sure, the US plot is shaped differently, reflecting a dip during the recession and significant growth since, while Alaska's seems a little more recession-proof — which matches what analysts already know about the state's economic makeup. Behind that difference is a simple fact — the green economy, as measured here by a count of establishments, is way up from 10 years ago, both for the Last Frontier and for the nation as a whole. 
+What I see is an equal rate of increase in the number firms included in the BLS definition. Sure, this is just a first cut at understanding changes in the green economy. And sure, the US plot is shaped differently, reflecting a dip during the recession and significant growth since, while Alaska's seems a little more recession-proof — which matches what analysts already know about the state's economic makeup. Behind that difference is a simple fact — the green economy, as measured here by a count of establishments, is way up from 10 years ago, both for the Last Frontier and for the nation as a whole. 
 
 It's a 7.5 percent increase for the US and 8.9 percent for Alaska from 2005-2016.
 
