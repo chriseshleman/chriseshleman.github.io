@@ -21,6 +21,8 @@ Once I've got it, I want to look at green jobs. So I knocked that big data set d
 Very interesting. I scaled the two plots' respective y-axes so they're relative and comparable. Along the way I picked up a few tips for using ggplot2 from Le Hoang Van's excellent blog. 
 What I see is an equal rate of increase in the number of green firms. Sure, the US plot is shaped differently, reflecting a dip during the recession and significant growth since, while Alaska's seems a little more recession-proof — which matches what analysts already know about the state's economic makeup. Behind that difference is a simple fact — the green economy, as measured here by a count of establishments, is way up from 10 years ago, both for the Last Frontier and for the nation as a whole. 
 
+It's a 7.5 percent increase for the US and 8.9 percent for Alaska from 2005-2016.
+
 ```r
 pp1 = ggplot(a, aes(year, (est_ak))) + geom_line(colour = "green3", size = 1.5) + 
   scale_y_continuous(name = "Alaska",expand = c(0, 0),labels = comma, limits = c(4250,5750)) 
