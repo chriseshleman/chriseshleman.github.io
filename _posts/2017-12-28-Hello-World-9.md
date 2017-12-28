@@ -7,9 +7,6 @@ output:
   word_document: default 
 ---
 
-#Summary with full script for documentation
-
-
 I was asked a couple of weeks to do a little multivariate causal inference using time series. And I had a few days to do it. Woof. So I gave it a crack. Here's an extremely simplified toy version of what I did, just to illustrate the process. 
 
 ```r
@@ -31,18 +28,6 @@ stuff=as.matrix(data.frame(a,b,d))
 ```
 
 And of course I held 'c' out of there. (That's my simulated ridership.) X variable of interest here is price (the 'a' variable).
-
-```r
-plot.ts(a) 
-```
-
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3-1.png)
-
-```r
-plot.ts(c) 
-```
-
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3-2.png)
 
 I'd basically be looking to the literature to help me determine the best controls. Confounding variables are sticky when it comes to causal inference, and I haven't gotten comfortable enough with machine learning yet to trust it with causal inference questions; I know multiple econometricians and statisticians that will tell you it's not the right bag of tools at all. For now, I stuck with the literature to inform me regarding what covarites might help, then worked my way through them at bivariate levels with some stratification. Basically, I read and then explored the data, then used Professor Hyndman's auto.arima function to turn my brain off when it came to time series components. 
 
