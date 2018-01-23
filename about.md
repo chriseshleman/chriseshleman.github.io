@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I dove into quantitative analysis and economics five years ago following a decade as a political (municipal and state-level) print journalist. I gravitate toward projects at the intersection of data and urban public policy. 
+I dove into quantitative analysis, economics and policy analysis starting around 2009 following a decade as a political (municipal and state-level) print journalist. I gravitate toward projects at the intersection of data and urban public policy. 
 
 ### More Information
 
