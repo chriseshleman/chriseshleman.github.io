@@ -1,0 +1,34 @@
+---
+title: 'Learning GitHub through analysis.'
+author: "Christopher Eshleman"
+date: "Jan. 22, 2018"
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+---
+
+I'm going to learn GitHub, and to do it I'll spend 100 days doing projects in R. Before starting I'm going to make sure: 
+
+1. I can comfortably use GitHub with R, 
+2. My data sets are all public, and
+3. I’m comfortable using GitHub Pages so I can do a blog post every week (Friday). 
+
+Then I can tweet the post every week, copying it to Facebook and LinkedIn or whatever. Something simple, explaining what I’m up to. The full projects will be done and posted on GitHub when things wrap up. I won't start this until late next month so perhaps I'll wrap up before June. 
+
+That gives me a few weeks to get comfy: 
+1. To do a little practice with R and GitHub, and
+2. To clean up a few other things (including, ahem, a paper submission related to trees). 
+
+The goal is not to break new research ground, or even to advance my working understanding of either R or econometric and statistical methodology. I’ve learned methods. I’m comfortable with R. The goal is to become comfortable using R with GitHub and GitHub Pages. But to keep it interesting I’ll pick a couple of fun projects relevant to urban economics and/or advanced policy analysis. An urban economist and advanced policy analyst doing relevant (urban and economic) research through R and GitHub. That’s it. [I can tackle intermediate SQL later on.] 
+
+By the end of those 100 days, I’ll have picked up the keyboard every day and posted (GitHub Pages post) every week, so I’ll have 13 GitHub Pages posts and the same number of tweets. 
+
+One project will ask a very basic question relevant to economics. It should focus somehow on the topic of inequality and can use a national data set, trying to investigate whether inequality really does differ across the urban-rural divide. 
+
+A second project should consist of spatial analysis, maybe using 311 data and PLUTO. (Aha. That’ll work, because 311 data has x-y coordinates so I can assign them to tax lots.) 
+
+In the process, some basic steps to keep things going on a daily basis: 
+Importing the data from websites, conducting exploration and visualization, doing some basic regression (even if I’m eventually going to want to turn to propensity score matching or another tool that offers more robust casual inference estimation), et cetera. 
+
+I was originally thinking 90 days. But 100 has a nice ring to it despite being just as arbitrary. If I start in a month (February 22), a 100-day marathon would take me to the start of June, and I could quit in time for summer. 
