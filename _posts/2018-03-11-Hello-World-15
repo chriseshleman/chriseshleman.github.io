@@ -1,0 +1,19 @@
+---
+title: 'Analyzing 311 requests 
+author: "Christopher Eshleman"
+date: "March 11, 2018"
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+---
+
+There's an old analysis rolling around of 311 data and its use across groups in New York City. 
+
+I've been part of refreshing and reusing it to death. So I'm going to put it through its final iterations and then be done with it. 
+
+This will be that refresh. 
+
+It basically seeks to analyze 311 data, which is already being done by the research community, to understand variation in social efficacy across groups. 
+
+What we tried to do differently was to incorporate data on the actual work done by public agencies. I'll work out the details later.
